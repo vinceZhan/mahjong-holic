@@ -135,13 +135,13 @@ Scoring rules vary, but commonly include:
 
 * Base win 1 score (normal win from others)
 * Get Fan (Doubles):
--- Self-draw: 1 Fan
--- Kong: 1 Fan
--- All pungs: 1 Fan
--- Full flush (having only one tile suit): 2 Fan
--- Seven pairs: 2 Fan
--- Win after Kong : 1 Fan
--- Robbing the Kong : 1 Fan
+  * Self-draw: 1 Fan
+  * Kong: 1 Fan
+  * All pungs: 1 Fan
+  * Full flush (having only one tile suit): 2 Fan
+  * Seven pairs: 2 Fan
+  * Win after Kong : 1 Fan
+  * Robbing the Kong : 1 Fan
 ---
 
 ## 🧠 Strategy Tips
