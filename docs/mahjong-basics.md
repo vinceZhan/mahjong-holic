@@ -22,40 +22,12 @@ A standard Mahjong set includes several types of tiles.
 ---
 
 ### 🟡 Dots (Circles)
-
-![Dots](./assets/dots.jpg)
-
----
-
 ### 🟢 Bamboo
-
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 🀐 | 🀑 | 🀒 | 🀓 | 🀔 | 🀕 | 🀖 | 🀗 | 🀘 |
-
----
-
 ### 🔴 Characters (万)
-
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 🀇 | 🀈 | 🀉 | 🀊 | 🀋 | 🀌 | 🀍 | 🀎 | 🀏 |
-
----
-
 ### 🌬️ Winds
-
-| East | South | West | North |
-| ---- | ----- | ---- | ----- |
-| 🀀   | 🀁    | 🀂   | 🀃    |
-
----
-
 ### 🐉 Dragons
 
-| Red | Green | White |
-| --- | ----- | ----- |
-| 🀄  | 🀅    | 🀆    |
+![Dots](./assets/tiles.jpg)
 
 ---
 
