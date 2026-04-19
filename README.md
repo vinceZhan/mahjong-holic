@@ -19,7 +19,7 @@ This repository is designed to:
 
 ### 🧠 Basics (Start Here)
 
-* 📄 `docs/general/mahjong-basics.md`
+* 📄 `docs/mahjong-basics.md`
   Covers the **fundamentals of Mahjong**, including:
 
   * Tiles and suits
@@ -33,7 +33,7 @@ This repository is designed to:
 
 #### Classic Mahjong
 
-* 📄 `docs/rules/classic-mahjong.md`
+* 📄 `docs/classic-mahjong.md` 
   A general “standard” version of Mahjong, including:
 
   * Common rules and gameplay
@@ -43,20 +43,13 @@ This repository is designed to:
 
 #### Sichuan Mahjong (四川麻将)
 
-* 📄 `docs/rules/sichuan-mahjong.md`
+* 📄 `docs/sichuan-mahjong.md`
   A popular regional variant known for fast-paced gameplay:
 
   * Ding Que (定缺)
   * Blood Flow rules (血流成河)
   * Continuous wins
   * Simplified tile set (variation-dependent)
-
----
-
-## 📖 Glossary (Optional)
-
-* 📄 `docs/glossary.md` *(planned)*
-  Key Mahjong terms and definitions for quick reference.
 
 ---
 
@@ -68,29 +61,19 @@ mahjong-holic/
 ├── README.md
 │
 ├── docs/
-│   ├── general/
-│   │   └── mahjong-basics.md
-│   │
-│   ├── rules/
-│   │   ├── classic-mahjong.md
-│   │   └── sichuan-mahjong.md
-│   │
-│   └── glossary.md
-│
-└── src/   (optional, for future implementations)
+│   ├── mahjong-basics.md
+│   ├── sichuan-mahjong.md
+│   ├── classic-mahjong.md
+│   ├── assets/
+│     └── tiles.jpg
 ```
 
 ---
 
 ## 🚀 Future Plans
 
-* Add more Mahjong variants:
-
-  * Riichi (Japanese Mahjong)
-  * Taiwanese Mahjong
-* Introduce **visual examples of hands**
-* Build **interactive tools or simulations**
-* Possibly develop a **Mahjong engine or game UI**
+* Add more Mahjong variants
+* Add glossary.md 
 
 ---
 
