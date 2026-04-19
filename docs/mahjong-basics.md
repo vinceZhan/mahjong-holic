@@ -154,6 +154,3 @@ After understanding these basics, continue with:
 to learn how different Mahjong styles modify these core rules.
 
 ---
-
-
-This will turn your guide into a **fully visual Mahjong manual**.
