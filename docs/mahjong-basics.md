@@ -23,9 +23,9 @@ A standard Mahjong set includes several types of tiles.
 
 ### 🟡 Dots (Circles)
 
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 🀙 | 🀚 | 🀛 | 🀜 | 🀝 | 🀞 | 🀟 | 🀠 | 🀡 |
+   ```
+   ![](../assets/dots.jpg)
+   ```
 
 ---
 
@@ -178,8 +178,8 @@ You win when:
 
 After understanding these basics, continue with:
 
-* 📄 `docs/rules/classic-mahjong.md`
-* 📄 `docs/rules/sichuan-mahjong.md`
+* 📄 `docs/classic-mahjong-rules.md`
+* 📄 `docs/sichuan-mahjong-rules.md`
 
 to learn how different Mahjong styles modify these core rules.
 
