@@ -47,7 +47,7 @@ It differs significantly from “classic” Mahjong in both **tile usage** and *
 
 Same as standard Mahjong:
 
-* Form **4 melds + 1 pair**
+* Form **4 melds + 1 pair** or **7 pairs**
 * Declare **Hu (胡)** to win
 
 ---
