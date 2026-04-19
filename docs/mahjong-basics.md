@@ -21,8 +21,8 @@ A standard Mahjong set includes several types of tiles.
 
 ---
 
-### 🟡 Dots (Circles)
 ### 🟢 Bamboo
+### 🟡 Circles
 ### 🔴 Characters (万)
 ### 🌬️ Winds
 ### 🐉 Dragons
@@ -83,7 +83,7 @@ A standard winning hand consists of:
 
 * A **sequence of 3 consecutive numbers**
 * Same suit only
-* Example: 🀛 🀜 🀝 (3-4-5 Dots)
+* Example: 🀛 🀜 🀝 (3-4-5 circles)
 
 ---
 
@@ -155,26 +155,5 @@ to learn how different Mahjong styles modify these core rules.
 
 ---
 
-## 🖼️ (Optional) Replace with Images Later
-
-If you want real tile images:
-
-1. Create:
-
-   ```
-   docs/assets/tiles/
-   ```
-
-2. Replace symbols like:
-
-   ```
-   🀙
-   ```
-
-   with:
-
-   ```
-   ![](../assets/tiles/dot_1.png)
-   ```
 
 This will turn your guide into a **fully visual Mahjong manual**.
