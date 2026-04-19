@@ -24,7 +24,7 @@ A standard Mahjong set includes several types of tiles.
 ### 🟡 Dots (Circles)
 
    ```
-   ![](../assets/dots.jpg)
+   ![](https://github.com/vinceZhan/mahjong-holic/blob/main/assets/dots.jpg)
    ```
 
 ---
