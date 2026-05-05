@@ -56,10 +56,12 @@ Same as standard Mahjong:
 
 At the beginning of the game:
 
-1. Each player chooses **one suit to “lack”**
+1. Each player pick 3 tiles from the **same suit** to exchage in the order based on the dice number (1,2 clockwise, 3,4 cross, 5,6 anti-clockwise)
+
+2. Each player chooses **one suit to “lack”**
 
    * Dots / Bamboo / Characters
-2. This suit is called your **Que (缺门)**
+3. This suit is called your **Que (缺门)**
 
 ### ❗ Restrictions:
 
